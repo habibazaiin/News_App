@@ -1,16 +1,14 @@
-# my_app
+# 📰 News App
 
-A new Flutter project.
+A simple Flutter application that displays the latest news across various categories using an API.  
+The app features a clean UI, multiple categories, and an easy-to-read design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Fetches real-time news from an API
+- Multiple categories (General, Sports, Technology, etc.)
+- Responsive and clean UI
+- Optimized for both Android & iOS
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
